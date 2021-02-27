@@ -361,6 +361,8 @@ filenames = {
     "shell/browser/electron_javascript_dialog_manager.h",
     "shell/browser/electron_navigation_throttle.cc",
     "shell/browser/electron_navigation_throttle.h",
+    "shell/browser/bluetooth/electron_bluetooth_delegate.cc",
+    "shell/browser/bluetooth/electron_bluetooth_delegate.h",
     "shell/browser/electron_permission_manager.cc",
     "shell/browser/electron_permission_manager.h",
     "shell/browser/electron_quota_permission_context.cc",
